@@ -13,10 +13,10 @@ collaboration and services exchange.
 
 * [Website](https://optrispace.com/)
 * [Twitter](https://twitter.com/optrispace)
+* [Discord](https://discord.gg/7WEbtmuqtv)
 * [YouTube](https://www.youtube.com/channel/UC0f2btvaHq6nB6MrIB2N5DA)
 
 ### Repositories
 
-* [Backend](https://github.com/optriment/optrispace-backend) – Go, PostgreSQL
-* [Frontend](https://github.com/optriment/optrispace-frontend) - Next.js, React
-* [Smart Contracts](https://github.com/optriment/optrispace-contract) – Solidity
+* [Frontend](https://github.com/optriment/optrispace-frontend-v2) - Next.js, React
+* [Smart Contracts](https://github.com/optriment/optrispace-contract-v2) – Solidity
